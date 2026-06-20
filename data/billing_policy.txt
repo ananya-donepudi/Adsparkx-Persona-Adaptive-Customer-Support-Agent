@@ -1,0 +1,7 @@
+Billing Policy
+
+Invoices are generated on the first day of each billing cycle. Customers can update payment methods from Account Settings > Billing.
+
+Refund requests require human review when the amount is above the automated threshold, when a chargeback has been opened, or when the customer reports unauthorized activity.
+
+Do not promise credits, refunds, or contract changes without human approval. For failed payments, ask the customer to verify the card, billing address, and bank approval status before escalating.
